@@ -23,3 +23,4 @@ function f() {
 	document.getElementById("ball").style.top = positionY + "px"; }
 ```
 <p>5. Education: Saint Petersburg State University 2017-2022 (Computer Sciences and Artificial Intelligence)</p>
+<p>6. English proficiency: B2.2</p>
