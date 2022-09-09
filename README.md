@@ -1,1 +1,3 @@
-# rsschool-cv1
+# rsschool-cv
+
+https://thegoldfinch.github.io/rsschool-cv/
